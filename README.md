@@ -4,7 +4,7 @@ This is a Python port of the [Android Market API Java Project](http://code.googl
 
 
 ## Requirements
-* [Python 2.5+](http://www.python.org)
+* [Python 2.6+](http://www.python.org)
 * [Protocol Buffers](http://code.google.com/p/protobuf/)
 
 ## Usage
